@@ -16,4 +16,4 @@
 !lib.a
 doc/*.txt
 doc/**/*.txt
-.idea
+*.idea
